@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism-and-Interfaces/Chapter 10.iml" filepath="$PROJECT_DIR$/Polymorphism-and-Interfaces/Chapter 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction-to-Java-Applications/Chapter 2.iml" filepath="$PROJECT_DIR$/Introduction-to-Java-Applications/Chapter 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction-to-Classes-Objects-and-String/Chapter 3.iml" filepath="$PROJECT_DIR$/Introduction-to-Classes-Objects-and-String/Chapter 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control-Statements-I/Chapter 4.iml" filepath="$PROJECT_DIR$/Control-Statements-I/Chapter 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control-Statements-II/Chapter 5.iml" filepath="$PROJECT_DIR$/Control-Statements-II/Chapter 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods(A deeper look)/Chapter 6.iml" filepath="$PROJECT_DIR$/Methods(A deeper look)/Chapter 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Array-Lists/Chapter 7.iml" filepath="$PROJECT_DIR$/Array-and-Array-Lists/Chapter 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes-and-Object(A deeper look)/Chapter 8.iml" filepath="$PROJECT_DIR$/Classes-and-Object(A deeper look)/Chapter 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-Oriented-Programming(Inheritance)/Chapter 9.iml" filepath="$PROJECT_DIR$/Object-Oriented-Programming(Inheritance)/Chapter 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort 2/Cohort 2.iml" filepath="$PROJECT_DIR$/Cohort 2/Cohort 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Files-Stream-and-Object-Serialization/Files-Stream-and-Object-Serialization.iml" filepath="$PROJECT_DIR$/Files-Stream-and-Object-Serialization/Files-Stream-and-Object-Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Questions.iml" filepath="$PROJECT_DIR$/.idea/Java Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Knight Practice/Knight Practice.iml" filepath="$PROJECT_DIR$/Knight Practice/Knight Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String and Regular Expressions/String and Regular Expressions.iml" filepath="$PROJECT_DIR$/String and Regular Expressions/String and Regular Expressions.iml" />
+    </modules>
+  </component>
+</project>
