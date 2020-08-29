@@ -19,6 +19,7 @@ public class FileMatching {
         openFile();
         matchFile();
         closeScanner();
+
         closeFormatter();
 
     }
@@ -47,7 +48,6 @@ public class FileMatching {
 
         }
         while (inTransaction.hasNext()) {
-
 
             try {
                 Account account = new Account(inOldMaster.nextInt(), inOldMaster.next(),
