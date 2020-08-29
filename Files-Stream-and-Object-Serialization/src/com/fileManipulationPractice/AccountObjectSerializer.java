@@ -17,7 +17,7 @@ public class AccountObjectSerializer {
 
     }
 
-    public static void openFile() {
+    private static void openFile() {
         try {
             output = new ObjectOutputStream(Files.newOutputStream(Paths.get("Account_holders.txt")));
         } catch (IOException e) {
@@ -27,7 +27,7 @@ public class AccountObjectSerializer {
 
     }
 
-    public static void writeFile() {
+    private static void writeFile() {
         Scanner input = new Scanner(System.in);
         System.out.printf("%s%n%s%n?", "Enter Account, First Name, Last Name and Account Balance",
                 "Enter end of file indicator to stop");
@@ -48,7 +48,7 @@ public class AccountObjectSerializer {
 
     }
 
-    public static void closeFile() {
+    private static void closeFile() {
         try {
             if (output != null)
                 output.close();
