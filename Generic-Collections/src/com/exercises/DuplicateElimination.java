@@ -23,7 +23,7 @@ public class DuplicateElimination {
         searchFirstName(sortedNames, interestName);
     }
 
-        public static void searchFirstName(Collection<String> names, String searchInterest){
+     public static void searchFirstName(Collection<String> names, String searchInterest){
                 if (names.contains(searchInterest.toLowerCase())) {
                     System.out.println(searchInterest.toLowerCase() + " present in name register");
                 } else {
